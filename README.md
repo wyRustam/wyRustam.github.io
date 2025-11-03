@@ -1,1 +1,0 @@
-# wyRustam.github.io
